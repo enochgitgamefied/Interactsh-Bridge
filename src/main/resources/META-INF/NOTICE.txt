@@ -1,0 +1,6 @@
+Interactsh Bridge 1.0.0
+Custom Burp Suite integration adapted from the user's Arken Collab implementation.
+Protocol reference: ProjectDiscovery Interactsh (https://github.com/projectdiscovery/interactsh).
+This is an independent integration, not an official ProjectDiscovery or PortSwigger release.
+Includes Google Gson 2.14.0, Copyright Google Inc., licensed under Apache License 2.0.
+See LICENSE-gson.txt. Burp supplies the Montoya API; it is not bundled.
